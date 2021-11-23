@@ -25,7 +25,7 @@ This lab provides a simple environment to experiment with IPv6 in VNETs. It is w
   
 - Clone the  GitHub repository:
   
-  `git clone https://github.com/mddazure/ipv6-in-vnet-bicep`
+  `git clone https://github.com/mblanco77/ipv6-in-vnet-bicep`
   
 - Change directory:
   
