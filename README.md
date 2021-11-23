@@ -33,7 +33,7 @@ This lab provides a simple environment to experiment with IPv6 in VNETs. It is w
 
 - Create resource group:
 
-  `az group create --name ipv6 --location westeurope`
+  `az group create --name ipv6 --location eastus`
 
 - Deploy the bicep template:
 
